@@ -6,7 +6,8 @@ int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(nullptr);
 
-	int L, temp, H=0;
+	int L;
+	long long temp, H=0;
 	char c;
 	const int M = 1234567891;
 	int list[50];
